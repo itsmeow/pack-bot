@@ -1,0 +1,9 @@
+*.env
+node_modules/
+*.zip
+resource+pack+template+1.8.x/
+textures/
+texturesout/
+new/
+pack/
+approvals/
